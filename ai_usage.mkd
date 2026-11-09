@@ -27,3 +27,7 @@ Using UI components from the startup, create a table inside the welcome page tha
 ```
 Write tests for Services and the IndexPageController covering all
 ```
+
+```
+Remove all unnecessary (unused) hooks, components, Laravel libs, packages, database content, configs that came with the startup project
+```
