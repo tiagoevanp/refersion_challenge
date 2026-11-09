@@ -2,11 +2,13 @@
 
 ## Usage Resume
 
-AI was used to complement some complex or most expensive code writing. There was some autocompletion usage to help the speed into writing some code
+AI was used to complement some complex or most expensive code writing. There was some autocompletion usage to help the speed into the writing process of code.
+
+**All code and changes made by AI was reviewed by me.**
 
 ## Model, Effort Level, Harnesses
 
-Claude Code with medium effort with the built-in skills and configurations for Laravel work.
+Claude Code with Opus 5.5 using medium effort. Built-in skills and configurations created by Laravel startup recommendations.
 
 ## Prompts & Tasks
 
