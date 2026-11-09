@@ -1,0 +1,29 @@
+# AI Usage
+
+## Usage Resume
+
+AI was used to complement some complex or most expensive code writing. There was some autocompletion usage to help the speed into writing some code
+
+## Model, Effort Level, Harnesses
+
+Claude Code with medium effort with the built-in skills and configurations for Laravel work.
+
+## Prompts & Tasks
+
+```
+I'm building a new Laravel application.
+
+Fetch and follow the instructions from https://laravel.com/for/agents. Treat the returned Markdown as the source of truth for how to install and set up Laravel in this session.
+```
+
+```
+Based on challenge_description.txt each customFields must be get to filter affiliates, do that without exceed the quantity of requests in API.
+```
+
+```
+Using UI components from the startup, create a table inside the welcome page that shows what challenge_description.txt asks for.
+```
+
+```
+Write tests for Services and the IndexPageController covering all
+```
